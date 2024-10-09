@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Who Am I?
 
-    🙂 Hello, I'm Neeraj Chormale, a SY student at DYPIU, Akurdi, Pune.
+    🙂 Hello, I'm Neeraj Chormale, a BTech CSE student at DYPIU, Akurdi, Pune.
 
     📍 Pune is where I call home, but the web is my playground.
    
