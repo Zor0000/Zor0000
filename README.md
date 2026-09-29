@@ -3,7 +3,7 @@
 ## Hi, I'm Neeraj Chormale
 
 BTech CSE graduate, DYPIU Pune.
-Currently building **Vex** (Vector DB) and **IronLog** (free iOS gym app).
+Currently building **Vex** (Vector DB) and **Setzo** (free iOS gym app).
 Open for work.
 
 </div>
